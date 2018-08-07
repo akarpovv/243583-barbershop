@@ -1,6 +1,7 @@
 # Учебный проект «Барбершоп»
 
 * Студент: [Антон Савельев](https://up.htmlacademy.ru/htmlcss/22/user/243583).
+* Наставник: [Элина Разина](https://up.htmlacademy.ru/htmlcss/22/user/53810).
 
 ---
 
